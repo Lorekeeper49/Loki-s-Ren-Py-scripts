@@ -1,3 +1,4 @@
 *
 !*.md
+!DEFAULT-REPO-SETTINGS/
 !.gitignore
