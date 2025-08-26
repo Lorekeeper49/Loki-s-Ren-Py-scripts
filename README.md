@@ -6,13 +6,13 @@ This is the place where I keep all my scripts that I make with Ren'Py, all these
 
 ## SCRIPTS
 
-## Beginner
+### Beginner
 
 
 
-## Intermediate
+### Intermediate
 
+[Point-and-Click](https://github.com/Lorekeeper49/Loki-s-Point-and-Click)
 
-
-## Advanced
+### Advanced
 
