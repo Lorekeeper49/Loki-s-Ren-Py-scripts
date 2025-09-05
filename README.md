@@ -16,6 +16,8 @@ All of my scripts and assets are operated under the same copyright policy: you m
 
 [Path Chooser](https://github.com/Lorekeeper49/Path-Chooser)
 
+[Poem Parser](https://github.com/Lorekeeper49/Poem-Parser)
+
 ### Intermediate
 
 [Point-and-Click](https://github.com/Lorekeeper49/Loki-s-Point-and-Click)
